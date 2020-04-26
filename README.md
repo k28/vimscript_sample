@@ -1,0 +1,1 @@
+# vimscript_sample
